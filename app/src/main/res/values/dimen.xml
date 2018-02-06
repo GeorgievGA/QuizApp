@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_question">24sp</dimen>
+    <dimen name="text_answer">15sp</dimen>
+    <dimen name="subtext">15sp</dimen>
+
+
+    <dimen name="weigth_width">0dp</dimen>
+
+    <dimen name="padding_sides">8dp</dimen>
+    <dimen name="padding_top">14dp</dimen>
+    <dimen name="padding_below">4dp</dimen>
+    <dimen name="margin_question">4dp</dimen>
+    <dimen name="margin_answers">4dp</dimen>
+    <dimen name="submit_margin_top">18dp</dimen>
+
+
+
+
+</resources>

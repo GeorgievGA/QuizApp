@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">How well do you know Bulgaria</string>
+    <string name="question_one">1. Which is the capital of Bulgaria?</string>
+    <string name="question_two">2. Which one is the Bulgarian flag?</string>
+    <string name="question_three">3. In which continent is Bulgaria?</string>
+    <string name="question_four">4.When was the first Bulgarian country found?</string>
+    <string name="question_five">5.Which of the following countries is not neigboring Bulgaria?</string>
+    <string name="question_five_subtext">Select all that apply</string>
+    <string name="question_six">6. Which product is Bulgaria most famous for?</string>
+
+    <string name="q1_answer1">Plovdiv</string>
+    <string name="q1_answer2">Sofia</string>
+    <string name="q1_answer3">Varna</string>
+
+    <string name="q2_answer1">Option 1</string>
+    <string name="q2_answer2">Option 2</string>
+    <string name="q2_answer3">Option 3</string>
+
+
+    <string name="q4_answer1">1014</string>
+    <string name="q4_answer2">681</string>
+    <string name="q4_answer3">919</string>
+    <string name="q4_answer4">1467</string>
+
+    <string name="q5_answer1">Greece</string>
+    <string name="q5_answer2">Romania</string>
+    <string name="q5_answer3">Turkey</string>
+    <string name="q5_answer4">Italy</string>
+    <string name="q5_answer5">Poland</string>
+    <string name="q5_answer6">Serbia</string>
+
+    <string name="q6_answer1">Milk</string>
+    <string name="q6_answer2">Rose oil</string>
+    <string name="q6_answer3">Wine</string>
+    <string name="q6_answer4">Cotton</string>
+
+
+    <string name="add_continent">Write your answer here</string>
+
+    <string name="sumbit_button">Submit</string>
+
+    <string name="fullscore">Congratiolation you got full point. You must love Bulgaria! </string>
+    <string name="results_start">"You got "</string>
+    <string name="results_end">" out of 7 points"</string>
+
+    <string name="description_image">Image of a flag</string>
+
+
+
+
+</resources>
